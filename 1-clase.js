@@ -8,4 +8,5 @@ function suma (uno, dos){
  resultado = uno + dos
  return resultado
 }
-suma(variable,sumas)
+var less = suma(variable,sumas)
+console.log(less)
